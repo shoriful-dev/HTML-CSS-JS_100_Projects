@@ -1,4 +1,4 @@
-/* body {
+body {
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -40,4 +40,4 @@
 
 .container:hover img {
   transform: translateY(-30%);
-} */
+}
