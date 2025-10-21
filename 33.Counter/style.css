@@ -61,4 +61,19 @@ body {
     font-weight: bold;
 }
 
+.save-btn {
+    background-color: #00da7f;
+    font-weight: bold;
+}
 
+.entries p {
+    margin: 2.5rem 0 1em 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.entries-field {
+    font-size: 20px;
+    color: #fff;
+}
