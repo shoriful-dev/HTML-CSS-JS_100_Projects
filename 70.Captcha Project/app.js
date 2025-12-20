@@ -1,6 +1,6 @@
 let captcha = document.querySelector('.captcha');
 let reloadBtn = document.querySelector('.reload-btn');
-// let inputField = document.querySelector('input');
+let inputField = document.querySelector('input');
 // let checkBtn = document.querySelector('.check-btn');
 // let statusTxt = document.querySelector('.status-text');
 
