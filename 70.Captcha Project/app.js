@@ -69,8 +69,8 @@ let allCharacters = [
   9,
 ];
 
-// checkBtn.addEventListener('click', e => {
-//   e.preventDefault();
+checkBtn.addEventListener('click', e => {
+  e.preventDefault();
 //   statusTxt.style.display = 'block';
 //   let inputVal = inputField.value.split('').join('');
 //   if (inputVal == captcha.innerText) {
