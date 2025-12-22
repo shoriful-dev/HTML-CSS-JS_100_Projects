@@ -96,7 +96,7 @@ function getCaptcha() {
   }
 }
 
-// reloadBtn.addEventListener('click', () => {
-//   captcha.innerHTML = '';
-//   getCaptcha();
-// });
+reloadBtn.addEventListener('click', () => {
+  captcha.innerHTML = '';
+  getCaptcha();
+});
