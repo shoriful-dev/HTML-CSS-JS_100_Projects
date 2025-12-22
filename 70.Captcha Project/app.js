@@ -90,11 +90,11 @@ checkBtn.addEventListener('click', e => {
 
 function getCaptcha() {
   for (let i = 0; i < 6; i++) {
-//     let randomChar =
-//       allCharacters[Math.floor(Math.random() * allCharacters.length)];
-//     captcha.innerText += `${randomChar}`;
-//   }
-// }
+    let randomChar =
+      allCharacters[Math.floor(Math.random() * allCharacters.length)];
+    captcha.innerText += `${randomChar}`;
+  }
+}
 
 // reloadBtn.addEventListener('click', () => {
 //   captcha.innerHTML = '';
