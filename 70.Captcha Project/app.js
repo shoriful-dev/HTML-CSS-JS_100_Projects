@@ -88,7 +88,7 @@ checkBtn.addEventListener('click', e => {
   }
 });
 
-// function getCaptcha() {
+function getCaptcha() {
 //   for (let i = 0; i < 6; i++) {
 //     let randomChar =
 //       allCharacters[Math.floor(Math.random() * allCharacters.length)];
